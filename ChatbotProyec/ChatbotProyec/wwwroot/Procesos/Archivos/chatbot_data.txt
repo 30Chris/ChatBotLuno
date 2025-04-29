@@ -1,0 +1,7 @@
+hola|¡Hola! ¿Cómo puedo ayudarte hoy?
+adios|¡Hasta luego! Que tengas un buen día.
+como estas?|Estoy bien, gracias por preguntar. ¿Y tú?
+cual es tu nombre?|Soy Luno, creado para ayudarte.
+que puedes hacer?|Puedo responder preguntas simples por ahora.
+cual es tu comida favorita?|chaufa causa!
+como te llamas ?|Me llamo Luno, como puedo ayudarte ?

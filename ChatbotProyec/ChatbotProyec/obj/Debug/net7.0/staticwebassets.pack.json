@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\51947\\Desktop\\Proyectos En Desarrollo\\ChatBotCompleto\\ChatbotProyec\\ChatbotProyec\\wwwroot\\Procesos\\Archivos\\chatbot_data.txt",
+      "PackagePath": "staticwebassets\\Procesos\\Archivos\\chatbot_data.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ChatbotProyec.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ChatbotProyec.props",
+      "PackagePath": "build\\ChatbotProyec.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatbotProyec.props",
+      "PackagePath": "buildMultiTargeting\\ChatbotProyec.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ChatbotProyec.props",
+      "PackagePath": "buildTransitive\\ChatbotProyec.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

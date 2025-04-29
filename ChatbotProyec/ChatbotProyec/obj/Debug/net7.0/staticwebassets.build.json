@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "dOnpjLhf4syyEDq8I/Q2gKUH1FHgcRPMk6QqlLkzNYQ=",
+  "Source": "ChatbotProyec",
+  "BasePath": "_content/ChatbotProyec",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChatbotProyec\\wwwroot",
+      "Source": "ChatbotProyec",
+      "ContentRoot": "C:\\Users\\51947\\Desktop\\Proyectos En Desarrollo\\ChatBotCompleto\\ChatbotProyec\\ChatbotProyec\\wwwroot\\",
+      "BasePath": "_content/ChatbotProyec",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\51947\\Desktop\\Proyectos En Desarrollo\\ChatBotCompleto\\ChatbotProyec\\ChatbotProyec\\wwwroot\\Procesos\\Archivos\\chatbot_data.txt",
+      "SourceId": "ChatbotProyec",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\51947\\Desktop\\Proyectos En Desarrollo\\ChatBotCompleto\\ChatbotProyec\\ChatbotProyec\\wwwroot\\",
+      "BasePath": "_content/ChatbotProyec",
+      "RelativePath": "Procesos/Archivos/chatbot_data.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Procesos\\Archivos\\chatbot_data.txt"
+    }
+  ]
+}
